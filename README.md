@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/afrlv1/shadowrocket@main/afrlv.conf
+https://raw.githubusercontent.com/afrlv1/shadowrocket/refs/heads/main/afrlv.conf
